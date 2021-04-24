@@ -39,4 +39,4 @@ z = y.str.replace(',', '')
 z = [int(float(i)) for i in z]
 print(sum(z))    
 
-#comentario
+
